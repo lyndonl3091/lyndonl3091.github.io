@@ -23,8 +23,12 @@ body {
     line-height:16px;
 }
 
+#name {
+  font-family: 'Shadows Into Light', cursive;
+}
+
 h1, h2, h3, h4, h5, h6 {
-font-family: 'Shadows Into Light', cursive;
+  font-family:'Open Sans', sans-serif, cursive;
     font-weight: 500;
    line-height:40px;
 
