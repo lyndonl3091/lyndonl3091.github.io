@@ -23,6 +23,13 @@ body {
     line-height:16px;
 }
 
+.portfolio-img {
+  height: 300px;
+  width: 300px;
+  margin-top: 10px;
+  padding: 20px;
+}
+
 #name {
   font-family: 'Shadows Into Light', cursive;
 }
