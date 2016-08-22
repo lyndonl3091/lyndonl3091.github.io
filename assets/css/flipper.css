@@ -9,7 +9,7 @@
 
 .flip-container, .front, .back {
 	width: 320px;
-	height: 480px;
+	height: 330px;
 }
 
 /* flip speed goes here */
@@ -34,6 +34,7 @@
 	z-index: 2;
 	/* for firefox 31 */
 	transform: rotateY(0deg);
+	margin-bottom: 25px;
 }
 
 /* back, initially hidden pane */
